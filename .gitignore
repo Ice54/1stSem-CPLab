@@ -1,0 +1,30 @@
+# JetBrains IDEs (CLion, PyCharm, etc.)
+.idea/
+*.iml
+
+# Build directories (CMake)
+cmake-build-*/
+build/
+bin/
+out/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+
+# Compiled Binaries / Executables
+*.exe
+*.out
+*.app
+*.elf
+*.ilk
+*.pdb
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
